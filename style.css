@@ -1,0 +1,63 @@
+.mymeal{
+    display: flex;
+    margin: auto;
+    align-items: auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+
+}
+.push{
+ display: flex;   
+ align-items: auto;
+ padding: 2rem 0rem;
+ background-color: rgb(51, 142, 196);   
+}
+ nav{
+    position: fixed;
+ }
+ #mycontact{
+    text-align: center;
+ }
+ .mycontact{
+    background-color: rgb(87, 226, 226);
+    color: rgb(8, 22, 22);
+    font-size: 40px;
+    border-radius: 20px;
+    padding: 0.5rem 0;
+    margin: 2rem 0;
+}
+.social{
+    display: flex;
+    justify-content: center;
+}
+.left{
+    text-align: center;
+    padding:4rem 0rem;
+    border-radius: 10px;
+    background-color: rgb(26, 209, 209);
+}
+
+.myicon{
+    font-size: 20px;
+    margin: 1rem;
+}
+.bro{
+    height: 30px;
+    margin:1rem;
+}
+.roblox{
+    height: 50px;
+    font-size: 20;
+}
+#joke{
+    background-color:turquoise ;
+    color:black ;
+    border-radius:10px ;
+    text-align: center;
+    padding: 0.5rem 0;
+}
+#ser{
+    padding:2rem 0rem ;
+    border-radius: 30px;
+}
