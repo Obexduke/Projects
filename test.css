@@ -1,0 +1,25 @@
+.navbar{
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    background-color: blue;
+    font-size: 200%;
+}
+.col{
+    display: flex;
+    text-align: left;
+    background-color: blue;
+    padding: 2rem 0rem;
+    padding-right: 50%;
+}
+.rey{
+    display: flex;
+    position: absolute;
+    padding-left: 150%;
+    text-align: center;
+    list-style: spac;
+
+}
+.red{
+    background-color: red;
+}
